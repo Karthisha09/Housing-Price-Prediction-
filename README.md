@@ -12,5 +12,5 @@ The dataset used for this project includes various features such as the number o
 
 The project is organized as follows:
 
-- `notebooks/`: Jupyter Notebooks for house price prediction dataset, source code for the machine learning model, data exploration, model development, and evaluation.
+- `notebooks/`: Google Colab Notebooks for house price prediction dataset, source code for the machine learning model, data exploration, model development, and evaluation.
 
